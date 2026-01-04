@@ -1,0 +1,58 @@
+[
+  {
+    "id": "c1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "status": "customer",
+    "lastContacted": "2025-12-28"
+  },
+  {
+    "id": "d2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+    "name": "Michael Chen",
+    "email": "m.chen@innovate.io",
+    "status": "lead",
+    "lastContacted": "2026-01-02"
+  },
+  {
+    "id": "e3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+    "name": "Emily Rodriguez",
+    "email": "emily.r@startup.co",
+    "status": "customer",
+    "lastContacted": "2025-12-15"
+  },
+  {
+    "id": "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+    "name": "James Wilson",
+    "email": "jwilson@enterprise.net",
+    "status": "past customer",
+    "lastContacted": "2025-10-20"
+  },
+  {
+    "id": "a5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+    "name": "Amanda Foster",
+    "email": "amanda.foster@design.studio",
+    "status": "lead",
+    "lastContacted": "2026-01-03"
+  },
+  {
+    "id": "b6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+    "name": "Robert Kim",
+    "email": "rkim@analytics.pro",
+    "status": "customer",
+    "lastContacted": "2025-12-22"
+  },
+  {
+    "id": "c7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+    "name": "Lisa Thompson",
+    "email": "lisa.t@consulting.group",
+    "status": "past customer",
+    "lastContacted": "2025-08-14"
+  },
+  {
+    "id": "d8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+    "name": "David Martinez",
+    "email": "david@freshstart.io",
+    "status": "lead",
+    "lastContacted": "2025-12-30"
+  }
+]

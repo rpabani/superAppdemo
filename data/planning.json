@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Design iOS app architecture",
+      "owner": "Sarah",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "name": "Set up Xcode project structure",
+      "owner": "Mike",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "name": "Implement SwiftUI navigation",
+      "owner": "Sarah",
+      "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "name": "Build customer list view",
+      "owner": "Alex",
+      "status": "in-progress"
+    },
+    {
+      "id": 5,
+      "name": "Waiting for API documentation",
+      "owner": "Mike",
+      "status": "blocked"
+    },
+    {
+      "id": 6,
+      "name": "Core Data integration blocked by schema",
+      "owner": "Sarah",
+      "status": "blocked"
+    },
+    {
+      "id": 7,
+      "name": "Create accounting dashboard UI",
+      "owner": "Alex",
+      "status": "backlog"
+    },
+    {
+      "id": 8,
+      "name": "Implement planning Kanban view",
+      "owner": "Mike",
+      "status": "backlog"
+    },
+    {
+      "id": 9,
+      "name": "Add push notifications",
+      "owner": "Sarah",
+      "status": "backlog"
+    },
+    {
+      "id": 10,
+      "name": "TestFlight beta deployment",
+      "owner": "Alex",
+      "status": "backlog"
+    }
+  ]
+}

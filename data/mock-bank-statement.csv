@@ -1,0 +1,21 @@
+date,description,amount,reference,type
+2025-12-01,Stripe Payout - December Coaching Sessions,4500.00,STR-DEC-001,credit
+2025-12-02,AWS Monthly Services,-245.99,AWS-2025-12,debit
+2025-12-03,Zoom Pro Subscription,-14.99,ZM-89234,debit
+2025-12-04,Calendly Premium,-12.00,CAL-X9283,debit
+2025-12-05,Google Workspace Business,-18.00,GWS-2025-12,debit
+2025-12-06,Notion Team Plan,-10.00,NOT-812734,debit
+2025-12-07,Stripe Payout - 1:1 Client Session,350.00,STR-CS-002,credit
+2025-12-08,OpenAI API Credits,-89.50,OAI-DEC-003,debit
+2025-12-10,Canva Pro Annual,-119.99,CNV-ANNUAL,debit
+2025-12-12,ConvertKit Email Marketing,-29.00,CK-DEC-2025,debit
+2025-12-15,Stripe Payout - AI Strategy Workshop,2800.00,STR-WS-005,credit
+2025-12-16,LinkedIn Learning Subscription,-29.99,LI-EDU-2025,debit
+2025-12-18,Professional Liability Insurance,-175.00,INS-Q4-2025,debit
+2025-12-20,Client Refund - Coaching Package,-150.00,REF-CL-008,debit
+2025-12-22,Stripe Payout - Online Course Sales,1250.00,STR-CRS-010,credit
+2025-12-24,Bank Monthly Service Fee,-15.00,BANK-FEE-12,debit
+2025-12-26,Anthropic API Credits,-45.00,ANT-DEC-001,debit
+2025-12-28,Stripe Payout - Consulting Retainer,750.00,STR-CON-012,credit
+2025-12-29,Slack Business Plus,-12.50,SLK-DEC-2025,debit
+2025-12-30,Loom Pro Subscription,-15.00,LOOM-2025-12,debit
